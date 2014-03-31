@@ -11,6 +11,7 @@ namespace IndustrialStateMachine
         static void Main(string[] args)
         {
             Console.ReadKey();
+            Console.WriteLine("111111111111");
         }
     }
 }
