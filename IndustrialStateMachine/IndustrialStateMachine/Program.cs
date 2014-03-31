@@ -10,6 +10,7 @@ namespace IndustrialStateMachine
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ffffffffffff");
         }
     }
 }
