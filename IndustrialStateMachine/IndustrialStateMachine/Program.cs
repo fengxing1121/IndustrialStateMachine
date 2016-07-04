@@ -12,6 +12,10 @@ namespace IndustrialStateMachine
         {
             Console.ReadKey();
             Console.WriteLine("111111111111");
+            Console.WriteLine("111111111111");
+            Console.WriteLine("111111111111");
+            Console.WriteLine("111111111111");
+            
         }
     }
 }
