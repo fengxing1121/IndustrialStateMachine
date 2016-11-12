@@ -8,3 +8,4 @@
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+<span style="color: green"> Some green text </span>
