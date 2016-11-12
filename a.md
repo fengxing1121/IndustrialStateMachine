@@ -1,6 +1,6 @@
 #标题1
 ##标题2
-<center>###标题3</center>
+<center>标题3</center>
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
